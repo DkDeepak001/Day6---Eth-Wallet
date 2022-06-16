@@ -1,5 +1,5 @@
 {
-    "name": "day6-EtherCrud",
+    "name": "day6 - Ether wallet",
     "version": "1.0.0",
     "description": "",
     "main": "truffle-config.js",
